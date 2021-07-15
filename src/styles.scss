@@ -1,0 +1,28 @@
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+$jumboColor: #1FA02E;
+
+.bg-blue {
+    background: #0D1F62;
+}
+
+.bg-red {
+    background: #EB1C24;
+}
+
+.bg-jumbo {
+    background: $jumboColor;
+}
+
+section {
+    height: 100vh;
+}
+
+.bg-guirnalda {
+    background: url("./assets/Girnalda.png");
+    height: 115px;
+}
+
+.navbar {
+    padding-left: 15px !important;
+}

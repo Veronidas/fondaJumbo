@@ -1,0 +1,22 @@
+{
+  "name": "jumbo",
+  "version": "1.0.0",
+  "description": "Landing Page La Fonda de Jumbito",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "jumbo"
+  ],
+  "author": "Veronika Brkich",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.0.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-es2015": "^6.24.1",
+    "babelify": "^10.0.0"
+  }
+}
